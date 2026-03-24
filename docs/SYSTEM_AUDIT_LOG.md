@@ -43,3 +43,4 @@
 | 2026-03-23 14:15:45 | REFACTOR | `mapping_ui` | Enhanced MissionControlMap.tsx |
 | 2026-03-23 16:40:20 | TEST | `mapping_ui` | Enhanced map_controls.css |
 | 2026-03-23 19:25:10 | DOCS | `mapping_ui` | Enhanced MissionControlMap.tsx |
+| 2026-03-24 09:22:15 | FIX | `alert_dispatcher` | Enhanced emergency_broadcaster.py |
