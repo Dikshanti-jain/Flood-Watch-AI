@@ -72,3 +72,4 @@
 | 2026-03-28 14:15:45 | FEAT | `multilingual_alerts` | Enhanced disaster_warnings.json |
 | 2026-03-28 16:40:20 | FIX | `multilingual_alerts` | Enhanced MULTILINGUAL_DISASTER_SMS.md |
 | 2026-03-28 19:25:10 | REFACTOR | `multilingual_alerts` | Enhanced disaster_warnings.json |
+| 2026-03-29 09:22:15 | CHORE | `offline_sync` | Enhanced offline_sync_worker.ts |
