@@ -192,3 +192,4 @@
 | 2026-04-18 14:15:45 | FEAT | `river_gauges` | Enhanced river_gauge_monitor.py |
 | 2026-04-18 16:40:20 | FIX | `river_gauges` | Enhanced RIVER_GAUGE_NETWORK.md |
 | 2026-04-18 19:25:10 | REFACTOR | `river_gauges` | Enhanced river_gauge_monitor.py |
+| 2026-04-19 09:22:15 | CHORE | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
