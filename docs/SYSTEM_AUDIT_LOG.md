@@ -276,3 +276,4 @@
 | 2026-05-03 11:45:30 | FEAT | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
 | 2026-05-03 14:15:45 | FIX | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
 | 2026-05-03 16:40:20 | REFACTOR | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
+| 2026-05-03 19:25:10 | TEST | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
