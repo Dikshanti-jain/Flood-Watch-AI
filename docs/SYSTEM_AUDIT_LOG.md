@@ -273,3 +273,4 @@
 | 2026-05-02 16:40:20 | FIX | `river_gauges` | Enhanced RIVER_GAUGE_NETWORK.md |
 | 2026-05-02 19:25:10 | REFACTOR | `river_gauges` | Enhanced river_gauge_monitor.py |
 | 2026-05-03 09:22:15 | CHORE | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
+| 2026-05-03 11:45:30 | FEAT | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
