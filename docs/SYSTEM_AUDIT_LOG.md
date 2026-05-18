@@ -360,3 +360,4 @@
 | 2026-05-17 21:35:50 | DOCS | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
 | 2026-05-18 09:22:15 | FEAT | `mapping_ui` | Enhanced MissionControlMap.tsx |
 | 2026-05-18 11:45:30 | FIX | `mapping_ui` | Enhanced map_controls.css |
+| 2026-05-18 14:15:45 | REFACTOR | `mapping_ui` | Enhanced MissionControlMap.tsx |
