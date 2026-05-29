@@ -420,3 +420,4 @@
 | 2026-05-28 16:40:20 | CHORE | `soil_moisture` | Enhanced SOIL_MOISTURE_INDICES.md |
 | 2026-05-28 19:25:10 | FEAT | `soil_moisture` | Enhanced soil_saturation.py |
 | 2026-05-28 21:35:50 | FIX | `soil_moisture` | Enhanced SOIL_MOISTURE_INDICES.md |
+| 2026-05-29 09:22:15 | DOCS | `sensor_telemetry` | Enhanced sensor_ingestion.py |
