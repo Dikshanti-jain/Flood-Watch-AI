@@ -439,3 +439,4 @@
 | 2026-05-31 19:25:10 | TEST | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
 | 2026-05-31 21:35:50 | DOCS | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
 | 2026-06-01 09:22:15 | FEAT | `mapping_ui` | Enhanced MissionControlMap.tsx |
+| 2026-06-01 11:45:30 | FIX | `mapping_ui` | Enhanced map_controls.css |
