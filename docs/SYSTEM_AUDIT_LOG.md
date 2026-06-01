@@ -438,3 +438,4 @@
 | 2026-05-31 16:40:20 | REFACTOR | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
 | 2026-05-31 19:25:10 | TEST | `geojson_layers` | Enhanced BasinBoundaryLayer.ts |
 | 2026-05-31 21:35:50 | DOCS | `geojson_layers` | Enhanced FloodRiskHeatmap.ts |
+| 2026-06-01 09:22:15 | FEAT | `mapping_ui` | Enhanced MissionControlMap.tsx |
