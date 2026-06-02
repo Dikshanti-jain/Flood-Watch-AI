@@ -444,3 +444,4 @@
 | 2026-06-01 16:40:20 | TEST | `mapping_ui` | Enhanced map_controls.css |
 | 2026-06-01 19:25:10 | DOCS | `mapping_ui` | Enhanced MissionControlMap.tsx |
 | 2026-06-02 09:22:15 | FIX | `alert_dispatcher` | Enhanced emergency_broadcaster.py |
+| 2026-06-02 11:45:30 | REFACTOR | `alert_dispatcher` | Enhanced test_broadcast_dispatch.py |
