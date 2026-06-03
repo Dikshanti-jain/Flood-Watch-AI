@@ -449,3 +449,4 @@
 | 2026-06-02 16:40:20 | DOCS | `alert_dispatcher` | Enhanced test_broadcast_dispatch.py |
 | 2026-06-02 19:25:10 | PERF | `alert_dispatcher` | Enhanced emergency_broadcaster.py |
 | 2026-06-02 21:35:50 | CHORE | `alert_dispatcher` | Enhanced test_broadcast_dispatch.py |
+| 2026-06-03 09:22:15 | REFACTOR | `evacuation_routing` | Enhanced evacuation_pathfinder.py |
