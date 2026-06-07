@@ -474,3 +474,4 @@
 | 2026-06-06 19:25:10 | REFACTOR | `multilingual_alerts` | Enhanced disaster_warnings.json |
 | 2026-06-07 09:22:15 | CHORE | `offline_sync` | Enhanced offline_sync_worker.ts |
 | 2026-06-07 11:45:30 | FEAT | `offline_sync` | Enhanced OFFLINE_EMERGENCY_SYNC.md |
+| 2026-06-07 14:15:45 | FIX | `offline_sync` | Enhanced offline_sync_worker.ts |
