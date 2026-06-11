@@ -495,3 +495,4 @@
 | 2026-06-10 16:40:20 | PERF | `nasa_gpm` | Enhanced test_nasa_gpm.py |
 | 2026-06-10 19:25:10 | CHORE | `nasa_gpm` | Enhanced nasa_gpm_pipeline.py |
 | 2026-06-11 09:22:15 | TEST | `soil_moisture` | Enhanced soil_saturation.py |
+| 2026-06-11 11:45:30 | DOCS | `soil_moisture` | Enhanced SOIL_MOISTURE_INDICES.md |
