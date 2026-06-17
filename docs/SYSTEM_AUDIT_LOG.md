@@ -530,3 +530,4 @@
 | 2026-06-16 19:25:10 | PERF | `alert_dispatcher` | Enhanced emergency_broadcaster.py |
 | 2026-06-16 21:35:50 | CHORE | `alert_dispatcher` | Enhanced test_broadcast_dispatch.py |
 | 2026-06-17 09:22:15 | REFACTOR | `evacuation_routing` | Enhanced evacuation_pathfinder.py |
+| 2026-06-17 11:45:30 | TEST | `evacuation_routing` | Enhanced EVACUATION_TOPOLOGY.md |
