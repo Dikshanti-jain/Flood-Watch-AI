@@ -61,3 +61,6 @@
 
 # Module Update: hydrology - Iteration 85.5
 # Verified timestamp: 2026-06-08T19:25:10+05:30
+
+# Calibrated discharge coefficient for peak monsoon runoff
+DISCHARGE_ROUTING_COEFFICIENT = 0.884
