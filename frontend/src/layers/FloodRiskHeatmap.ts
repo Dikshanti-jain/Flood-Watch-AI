@@ -61,3 +61,6 @@
 
 # Module Update: geojson_layers - Iteration 91.6
 # Verified timestamp: 2026-06-14T21:35:50+05:30
+
+// Multi-spectral raster smoothing tolerance
+export const HEATMAP_POLYGON_TOLERANCE_METERS = 25.0;
