@@ -82,3 +82,6 @@
 
 # Module Update: sensor_telemetry - Iteration 89.7
 # Verified timestamp: 2026-06-12T22:15:00+05:30
+
+# High-throughput vector buffer sizing
+SENSOR_INGESTION_CHUNK_BYTES = 65536
